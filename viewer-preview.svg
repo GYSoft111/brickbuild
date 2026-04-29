@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Abstract brick model background">
+  <rect width="1600" height="1000" fill="#263248"/>
+  <g opacity=".9">
+    <path d="M1030 170 1360 350 1018 548 688 366Z" fill="#d7382f"/>
+    <path d="M688 366 1018 548 1018 746 688 564Z" fill="#a7231e"/>
+    <path d="M1018 548 1360 350 1360 548 1018 746Z" fill="#7d1e1a"/>
+    <ellipse cx="924" cy="351" rx="56" ry="31" fill="#f85b52"/>
+    <ellipse cx="1060" cy="426" rx="56" ry="31" fill="#f85b52"/>
+    <ellipse cx="1196" cy="350" rx="56" ry="31" fill="#f85b52"/>
+    <ellipse cx="1060" cy="273" rx="56" ry="31" fill="#f85b52"/>
+  </g>
+  <g opacity=".55">
+    <path d="M225 618 470 750 250 878 8 744Z" fill="#2f65b8"/>
+    <path d="M8 744 250 878 250 966 8 832Z" fill="#214882"/>
+    <path d="M250 878 470 750 470 838 250 966Z" fill="#18345e"/>
+    <ellipse cx="170" cy="738" rx="42" ry="23" fill="#5f91df"/>
+    <ellipse cx="266" cy="790" rx="42" ry="23" fill="#5f91df"/>
+    <ellipse cx="306" cy="686" rx="42" ry="23" fill="#5f91df"/>
+  </g>
+  <g opacity=".42">
+    <path d="M1280 720 1532 856 1306 988 1054 850Z" fill="#2ea45f"/>
+    <path d="M1054 850 1306 988 1306 1060 1054 922Z" fill="#237841"/>
+    <path d="M1306 988 1532 856 1532 928 1306 1060Z" fill="#19552e"/>
+    <ellipse cx="1226" cy="850" rx="42" ry="23" fill="#55c984"/>
+    <ellipse cx="1328" cy="907" rx="42" ry="23" fill="#55c984"/>
+    <ellipse cx="1380" cy="805" rx="42" ry="23" fill="#55c984"/>
+  </g>
+</svg>
